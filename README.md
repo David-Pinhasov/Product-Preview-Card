@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: ()
+- Live Site URL: (https://david-pinhasov.github.io/Product-Preview-Card/)
 
 
 ### Built with
